@@ -11,11 +11,12 @@
 4. Web Server (contoh. localhost)
 
 ## tutorial
-3. buat file baru dengan nama **.env**
-4. jalankan Web Server dan MySQL 
-5. buat database dengan nama 'aplikasipesanantarmakanan', dan import file [aplikasipesanantarmakanan.sql](aplikasipesanantarmakanan.sql) ke **phpmyadmin**
-6. buka Postman
-7. pilih HTTP Method dan enter request url.(contoh. localhost:8080/items)
+1. buka cmd ketik npm install
+2. buat file baru dengan nama **.env**
+3. jalankan Web Server dan MySQL 
+4. buat database dengan nama 'aplikasipesanantarmakanan', dan import file [aplikasipesanantarmakanan.sql](aplikasipesanantarmakanan.sql) ke **phpmyadmin**
+5. buka Postman
+6. pilih HTTP Method dan enter request url.(contoh. localhost:8080/items)
 
 
 ## Set up .env file
